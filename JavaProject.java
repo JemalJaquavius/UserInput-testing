@@ -1,13 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package empty.javaproject;
-
-/**
- *
- * @author Atticus
- */
 import java.util.Scanner;
 public class JavaProject {
     String information = "Buzz Lightyear is great";
